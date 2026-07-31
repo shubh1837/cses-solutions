@@ -1,16 +1,40 @@
-# CSES Problem Set Solutions
+# CSES Problem Set Solutions (C++)
 
-Solutions to 65 competitive programming problems from the **[CSES Problem Set](https://cses.fi/problemset/)** implemented in C++.
+![Status](https://img.shields.io/badge/Status-Active%20%26%20Updating-brightgreen)
+![Language](https://img.shields.io/badge/Language-C%2B%2B17%20%2F%20C%2B%2B20-blue)
+![Platform](https://img.shields.io/badge/Platform-CSES-orange)
 
-## 🚀 Overview
-
-- **Language:** C++17 / C++20
-- **Compiler:** GCC / Clang / MSVC
-- **Author:** [shubh1837](https.github.com/shubh1837)
+My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/problemset/)** in C++. This repository is actively updated as I solve more problems daily.
 
 ---
 
-## 📁 Solved Problems (65 Total)
+## 📌 Repository Overview
+
+- **Author:** [shubh1837](https://github.com/shubh1837)
+- **Language:** C++17 / C++20
+- **Compiler Options:** `g++ -O2 -std=c++17`
+
+---
+
+## 📊 Progress Tracker
+
+| Topic | Status |
+| :--- | :---: |
+| 🔹 **Introductory Problems** | In Progress |
+| 🔹 **Sorting and Searching** | In Progress |
+| 🔹 **Dynamic Programming** | In Progress |
+| 🔹 **Graph Algorithms** | Upcoming |
+| 🔹 **Range Queries** | Upcoming |
+| 🔹 **Tree Algorithms** | Upcoming |
+| 🔹 **Mathematics** | Upcoming |
+| 🔹 **String Algorithms** | Upcoming |
+| 🔹 **Geometry** | Upcoming |
+| 🔹 **Advanced Techniques** | Upcoming |
+| 🔹 **Additional Problems** | In Progress |
+
+---
+
+## 📁 Solved Problems
 
 ### 🔹 Introductory Problems
 - [x] **Weird Algorithm** — [`Weird_Algorithm.cpp`](Weird_Algorithm.cpp)
@@ -66,13 +90,15 @@ Solutions to 65 competitive programming problems from the **[CSES Problem Set](h
 - [x] **Nested Ranges Count** — [`Nested_Ranges_Count.cpp`](Nested_Ranges_Count.cpp)
 - [x] **Array Division** — [`Array_Division.cpp`](Array_Division.cpp)
 
-### 🔹 Dynamic Programming & Grid / Subarray Problems
+### 🔹 Dynamic Programming
 - [x] **Dice Combinations** — [`Dice_Combinations.cpp`](Dice_Combinations.cpp)
 - [x] **Minimizing Coins** — [`Minimizing_Coins.cpp`](Minimizing_Coins.cpp)
 - [x] **Coin Combinations I** — [`Coin_Combinations_I.cpp`](Coin_Combinations_I.cpp)
 - [x] **Coin Combinations II** — [`Coin_Combinations_II.cpp`](Coin_Combinations_II.cpp)
 - [x] **Removing Digits** — [`Removing_Digits.cpp`](Removing_Digits.cpp)
 - [x] **Book Shop** — [`Book_Shop.cpp`](Book_Shop.cpp)
+
+### 🔹 Additional & Advanced Problems
 - [x] **Distinct Values Subarrays** — [`Distinct_Values_Subarrays.cpp`](Distinct_Values_Subarrays.cpp)
 - [x] **Distinct Values Subarrays II** — [`Distinct_Values_Subarrays_II.cpp`](Distinct_Values_Subarrays_II.cpp)
 - [x] **Distinct Values Subsequences** — [`Distinct_Values_Subsequences.cpp`](Distinct_Values_Subsequences.cpp)
@@ -85,11 +111,16 @@ Solutions to 65 competitive programming problems from the **[CSES Problem Set](h
 
 ---
 
-## 🛠️ How to Run
+## ⚡ How to Add New Solutions Daily
 
-To compile and run any solution locally using `g++`:
+When you solve a new problem:
+
+1. Save your C++ file in the repository folder (e.g. `Problem_Name.cpp`).
+2. Update the checklist in `README.md`.
+3. Push your daily changes:
 
 ```bash
-g++ -O2 -std=c++17 SolutionName.cpp -o solution
-./solution
+git add .
+git commit -m "Add solution for Problem Name"
+git push
 ```
