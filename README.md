@@ -109,6 +109,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Book Shop** — [`Book_Shop.cpp`](Book_Shop.cpp)
 
 
+<!--
 ---
 
 ## ⚡ How to Add New Solutions Daily
@@ -124,3 +125,5 @@ git add .
 git commit -m "Add solution for Problem Name"
 git push
 ```
+-->
+
