@@ -1,0 +1,23 @@
+# Inputs & outputs
+inputf.in
+outputf.in
+
+# Scratch / Unfinished scripts
+practice.cpp
+Array_Description.cpp
+Array_Discription.cpp
+Grid_Path_Description.cpp
+Grid_Path_Decription.cpp
+
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+*.exe.stackdump
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
