@@ -21,7 +21,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 | Topic | Status |
 | :--- | :---: |
 | 🔹 **Introductory Problems** | In Progress |
-| 🔹 **Sorting and Searching** | In Progress |
+| 🔹 **Sorting and Searching** | Completed |
 | 🔹 **Dynamic Programming** | In Progress |
 | 🔹 **Graph Algorithms** | Upcoming |
 | 🔹 **Range Queries** | Upcoming |
