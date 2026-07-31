@@ -30,7 +30,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 | 🔹 **String Algorithms** | Upcoming |
 | 🔹 **Geometry** | Upcoming |
 | 🔹 **Advanced Techniques** | Upcoming |
-| 🔹 **Additional Problems** | In Progress |
+| 🔹 **Additional Problems** | Upcoming |
 
 ---
 
@@ -54,7 +54,12 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Creating Strings** — [`Creating_Strings.cpp`](Creating_Strings.cpp)
 - [x] **Apple Division** — [`Apple_Division.cpp`](Apple_Division.cpp)
 - [x] **Chessboard and Queens** — [`Chessboard_and_Queens.cpp`](Chessboard_and_Queens.cpp)
+- [x] **Raab Game I** — [`Raab_Game_I.cpp`](Raab_Game_I.cpp)
+- [x] **Mex Grid Construction** — [`Mex_Grid_Construction.cpp`](Mex_Grid_Construction.cpp)
+- [x] **Knight Moves Grid** — [`Knight_Moves_Grid.cpp`](Knight_Moves_Grid.cpp)
+- [x] **Grid Coloring I** — [`Grid_Coloring_I.cpp`](Grid_Coloring_I.cpp)
 - [x] **Digit Queries** — [`Digit_Queries.cpp`](Digit_Queries.cpp)
+- [x] **String Reorder** — [`String_Reorder.cpp`](String_Reorder.cpp)
 
 ### 🔹 Sorting and Searching
 - [x] **Distinct Numbers** — [`Distinct_Numbers.cpp`](Distinct_Numbers.cpp)
@@ -67,28 +72,32 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Maximum Subarray Sum** — [`Maximum_Subarray_Sum.cpp`](Maximum_Subarray_Sum.cpp)
 - [x] **Stick Lengths** — [`Stick_Lengths.cpp`](Stick_Lengths.cpp)
 - [x] **Missing Coin Sum** — [`Missing_Coin_Sum.cpp`](Missing_Coin_Sum.cpp)
+- [x] **Collecting Numbers** — [`Collecting_Numbers.cpp`](Collecting_Numbers.cpp)
+- [x] **Collecting Numbers II** — [`Collecting_Numbers_II.cpp`](Collecting_Numbers_II.cpp)
 - [x] **Playlist** — [`Playlist.cpp`](Playlist.cpp)
 - [x] **Towers** — [`Towers.cpp`](Towers.cpp)
 - [x] **Traffic Lights** — [`Traffic_Lights.cpp`](Traffic_Lights.cpp)
+- [x] **Distinct Values Subarrays** — [`Distinct_Values_Subarrays.cpp`](Distinct_Values_Subarrays.cpp)
+- [x] **Distinct Values Subsequences** — [`Distinct_Values_Subsequences.cpp`](Distinct_Values_Subsequences.cpp)
 - [x] **Josephus Problem I** — [`Josephus_Problem_I.cpp`](Josephus_Problem_I.cpp)
 - [x] **Josephus Problem II** — [`Josephus_Problem_II.cpp`](Josephus_Problem_II.cpp)
-- [x] **Collecting Numbers** — [`Collecting_Numbers.cpp`](Collecting_Numbers.cpp)
-- [x] **Collecting Numbers II** — [`Collecting_Numbers_II.cpp`](Collecting_Numbers_II.cpp)
+- [x] **Nested Ranges Check** — [`Nested_Ranges_Check.cpp`](Nested_Ranges_Check.cpp)
+- [x] **Nested Ranges Count** — [`Nested_Ranges_Count.cpp`](Nested_Ranges_Count.cpp)
+- [x] **Room Allocation** — [`Room_Allocation.cpp`](Room_Allocation.cpp)
+- [x] **Factory Machines** — [`Factory_Machines.cpp`](Factory_Machines.cpp)
+- [x] **Tasks and Deadlines** — [`Tasks_and_Deadlines.cpp`](Tasks_and_Deadlines.cpp)
+- [x] **Reading Books** — [`Reading_Books.cpp`](Reading_Books.cpp)
 - [x] **Sum of Three Values** — [`Sum_of_Three_Values.cpp`](Sum_of_Three_Values.cpp)
 - [x] **Sum of Four Values** — [`Sum_of_Four_Values.cpp`](Sum_of_Four_Values.cpp)
 - [x] **Nearest Smaller Values** — [`Nearest_Smaller_Values.cpp`](Nearest_Smaller_Values.cpp)
 - [x] **Subarray Sum I** — [`Subarray_Sum_I.cpp`](Subarray_Sum_I.cpp)
 - [x] **Subarray Sum II** — [`Subarray_Sum_II.cpp`](Subarray_Sum_II.cpp)
 - [x] **Subarray Divisibility** — [`Subarray_Divisibility.cpp`](Subarray_Divisibility.cpp)
-- [x] **Room Allocation** — [`Room_Allocation.cpp`](Room_Allocation.cpp)
-- [x] **Factory Machines** — [`Factory_Machines.cpp`](Factory_Machines.cpp)
-- [x] **Tasks and Deadlines** — [`Tasks_and_Deadlines.cpp`](Tasks_and_Deadlines.cpp)
-- [x] **Reading Books** — [`Reading_Books.cpp`](Reading_Books.cpp)
+- [x] **Distinct Values Subarrays II** — [`Distinct_Values_Subarrays_II.cpp`](Distinct_Values_Subarrays_II.cpp)
+- [x] **Array Division** — [`Array_Division.cpp`](Array_Division.cpp)
 - [x] **Movie Festival II** — [`Movie_Festival_II.cpp`](Movie_Festival_II.cpp)
 - [x] **Maximum Subarray Sum II** — [`Maximum_Subarray_Sum_II.cpp`](Maximum_Subarray_Sum_II.cpp)
-- [x] **Nested Ranges Check** — [`Nested_Ranges_Check.cpp`](Nested_Ranges_Check.cpp)
-- [x] **Nested Ranges Count** — [`Nested_Ranges_Count.cpp`](Nested_Ranges_Count.cpp)
-- [x] **Array Division** — [`Array_Division.cpp`](Array_Division.cpp)
+
 
 ### 🔹 Dynamic Programming
 - [x] **Dice Combinations** — [`Dice_Combinations.cpp`](Dice_Combinations.cpp)
@@ -96,18 +105,9 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Coin Combinations I** — [`Coin_Combinations_I.cpp`](Coin_Combinations_I.cpp)
 - [x] **Coin Combinations II** — [`Coin_Combinations_II.cpp`](Coin_Combinations_II.cpp)
 - [x] **Removing Digits** — [`Removing_Digits.cpp`](Removing_Digits.cpp)
+- [x] **Grid Path I** — [`Grid_Path_I.cpp`](Grid_Path_I.cpp)
 - [x] **Book Shop** — [`Book_Shop.cpp`](Book_Shop.cpp)
 
-### 🔹 Additional & Advanced Problems
-- [x] **Distinct Values Subarrays** — [`Distinct_Values_Subarrays.cpp`](Distinct_Values_Subarrays.cpp)
-- [x] **Distinct Values Subarrays II** — [`Distinct_Values_Subarrays_II.cpp`](Distinct_Values_Subarrays_II.cpp)
-- [x] **Distinct Values Subsequences** — [`Distinct_Values_Subsequences.cpp`](Distinct_Values_Subsequences.cpp)
-- [x] **Grid Coloring I** — [`Grid_Coloring_I.cpp`](Grid_Coloring_I.cpp)
-- [x] **Grid Path I** — [`Grid_Path_I.cpp`](Grid_Path_I.cpp)
-- [x] **Knight Moves Grid** — [`Knight_Moves_Grid.cpp`](Knight_Moves_Grid.cpp)
-- [x] **Mex Grid Construction** — [`Mex_Grid_Construction.cpp`](Mex_Grid_Construction.cpp)
-- [x] **Raab Game I** — [`Raab_Game_I.cpp`](Raab_Game_I.cpp)
-- [x] **String Reorder** — [`String_Reorder.cpp`](String_Reorder.cpp)
 
 ---
 
