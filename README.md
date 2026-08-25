@@ -107,6 +107,8 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Removing Digits** — [`Removing_Digits.cpp`](Removing_Digits.cpp)
 - [x] **Grid Path I** — [`Grid_Path_I.cpp`](Grid_Path_I.cpp)
 - [x] **Book Shop** — [`Book_Shop.cpp`](Book_Shop.cpp)
+- [x] **Array Description** — [`Array_Description.cpp`](Array_Description.cpp)
+- [x] **Counting Towers** — [`Counting_Towers.cpp`](Counting_Towers.cpp)
 
 
 <!--
