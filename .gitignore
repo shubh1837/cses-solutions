@@ -1,13 +1,13 @@
 # Inputs & outputs
 inputf.in
 outputf.in
+outputf.out
 
 # Scratch / Unfinished scripts
 practice.cpp
-Array_Description.cpp
-Array_Discription.cpp
+Edit_Distance.cpp
 Grid_Path_Description.cpp
-Grid_Path_Decription.cpp
+
 
 # Binaries and executables
 *.exe
@@ -15,6 +15,7 @@ Grid_Path_Decription.cpp
 *.obj
 *.out
 *.exe.stackdump
+.txt
 
 # IDE and OS files
 .vscode/
