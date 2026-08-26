@@ -111,6 +111,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Counting Towers** — [`Counting_Towers.cpp`](Counting_Towers.cpp)
 - [x] **Edit Distance** — [`Edit_Distance.cpp`](Edit_Distance.cpp)
 - [x] **Longest Common Subsequence** — [`Longest_Common_Subsequence.cpp`](Longest_Common_Subsequence.cpp)
+- [x] **RecRectangle Cutting** — [`Rectangle_Cutting.cpp`](Rectangle_Cutting.cpp)
 <!--
 ---
 
