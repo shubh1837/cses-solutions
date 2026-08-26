@@ -5,7 +5,6 @@ outputf.out
 
 # Scratch / Unfinished scripts
 practice.cpp
-Edit_Distance.cpp
 Grid_Path_Description.cpp
 
 
@@ -15,7 +14,7 @@ Grid_Path_Description.cpp
 *.obj
 *.out
 *.exe.stackdump
-.txt
+*.txt
 
 # IDE and OS files
 .vscode/
