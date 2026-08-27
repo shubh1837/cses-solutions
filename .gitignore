@@ -6,6 +6,7 @@ outputf.out
 # Scratch / Unfinished scripts
 practice.cpp
 Grid_Path_Description.cpp
+Minimal_grid_Path.cpp
 
 
 # Binaries and executables
