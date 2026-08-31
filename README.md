@@ -117,6 +117,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Removal Game** — [`Removal_Game.cpp`](Removal_Game.cpp)
 - [x] **Two Sets II** — [`Two_Sets_II.cpp`](Two_Sets_II.cpp)
 - [x] **Mountain_Range** — [`Mountain_Range.cpp`](Mountain_Range.cpp)
+- [x] **Increasing Subsequence** — [`Increasing_Subsequence.cpp`](Increasing_Subsequence.cpp)
 <!--
 ---
 
