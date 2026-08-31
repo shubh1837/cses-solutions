@@ -112,6 +112,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Edit Distance** — [`Edit_Distance.cpp`](Edit_Distance.cpp)
 - [x] **Longest Common Subsequence** — [`Longest_Common_Subsequence.cpp`](Longest_Common_Subsequence.cpp)
 - [x] **Rectangle Cutting** — [`Rectangle_Cutting.cpp`](Rectangle_Cutting.cpp)
+- [x] **Minimal Grid Path** — [`Minimal_Grid_Path.cpp`](Minimal_Grid_Path.cpp)
 - [x] **Money Sums** — [`Money_Sums.cpp`](Money_Sums.cpp)
 - [x] **Removal Game** — [`Removal_Game.cpp`](Removal_Game.cpp)
 - [x] **Two Sets II** — [`Two_Sets_II.cpp`](Two_Sets_II.cpp)
