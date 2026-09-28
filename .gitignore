@@ -5,7 +5,6 @@ outputf.out
 
 # Scratch / Unfinished scripts
 practice.cpp
-Grid_Path_Description.cpp
 
 
 # Binaries and executables
@@ -21,3 +20,4 @@ Grid_Path_Description.cpp
 .idea/
 .DS_Store
 Thumbs.db
+Elevator_Rides.cpp 

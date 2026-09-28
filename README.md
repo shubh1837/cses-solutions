@@ -20,7 +20,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 
 | Topic | Status |
 | :--- | :---: |
-| 🔹 **Introductory Problems** | In Progress |
+| 🔹 **Introductory Problems** | Completed |
 | 🔹 **Sorting and Searching** | Completed |
 | 🔹 **Dynamic Programming** | In Progress |
 | 🔹 **Graph Algorithms** | Upcoming |
@@ -60,6 +60,7 @@ My ongoing collection of solutions for the **[CSES Problem Set](https://cses.fi/
 - [x] **Grid Coloring I** — [`Grid_Coloring_I.cpp`](Grid_Coloring_I.cpp)
 - [x] **Digit Queries** — [`Digit_Queries.cpp`](Digit_Queries.cpp)
 - [x] **String Reorder** — [`String_Reorder.cpp`](String_Reorder.cpp)
+- [x] **Grid Path Description** — [Grid_Path_Description.cpp`](Grid_Path_Description.cpp)
 
 ### 🔹 Sorting and Searching
 - [x] **Distinct Numbers** — [`Distinct_Numbers.cpp`](Distinct_Numbers.cpp)
